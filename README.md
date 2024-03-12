@@ -8,7 +8,7 @@
 
 具有一段长约10分钟的可爱剧情, 以及多个Timeline演出过场.
 
-![壁纸-1609](TemplateData/README/壁纸-1609.png)
+![壁纸-1609](./TemplateData/README/壁纸-1609.png)
 
 ## 快速体验
 
@@ -28,6 +28,7 @@
 
 后面的就根据游戏指引来吧 ^_^
 
-![pack](TemplateData/README/pack.jpg)
+![pack](./TemplateData/README/pack.jpg)
 
-![dialog](TemplateData/README/dialog.jpg)
+![dialog](./TemplateData/README/dialog.jpg)
+
